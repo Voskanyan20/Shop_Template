@@ -1,0 +1,61 @@
+[
+  {
+    "id": 1,
+    "title": "Woman wear"
+  },
+  {
+    "id": 2,
+    "title": "Midi Dresses",
+    "parentId": 1
+  },
+  {
+    "id": 3,
+    "title": "Maxi Dresses",
+    "parentId": 1
+  },
+  {
+    "id": 4,
+    "title": "Prom Dresses",
+    "parentId": 1
+  },
+  {
+    "id": 5,
+    "title": "Little Black Dresses",
+    "parentId": 1
+  },
+  {
+    "id": 7,
+    "title": "Man wear"
+  },
+  {
+    "id": 8,
+    "title": "Man Dresses",
+    "parentId": 7
+  },
+  {
+    "id": 9,
+    "title": "Man black Dresses",
+    "parentId": 7
+  },
+  {
+    "id": 10,
+    "title": "Man midi Dresses",
+    "parentId": 7
+  },
+  {
+    "id": 11,
+    "title": "Children's wear"
+  },
+  {
+    "id": 12,
+    "title": "Bags & Purses"
+  },
+  {
+    "id": 13,
+    "title": "Eyewear"
+  },
+  {
+    "id": 14,
+    "title": "Footwear"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "class": "grey",
+    "available": 3
+  },
+  {
+    "id": 2,
+    "class": "red",
+    "available": 15
+  },
+  {
+    "id": 3,
+    "class": "yellow",
+    "available": 32
+  },
+  {
+    "id": 4,
+    "class": "green",
+    "available": 8
+  },
+  {
+    "id": 5,
+    "class": "teal",
+    "available": 117
+  },
+  {
+    "id": 6,
+    "class": "cyan",
+    "available": 123
+  }
+]
